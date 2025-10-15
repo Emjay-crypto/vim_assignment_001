@@ -1,0 +1,4 @@
+Welcome to Vim
+Second line of text
+
+Appended text

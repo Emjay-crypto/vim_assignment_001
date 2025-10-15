@@ -1,0 +1,20 @@
+total 76
+drwxrwxr-x  8 viper viper 4096 Oct 15 01:47 .
+drwx------ 25 viper viper 4096 Oct 15 01:47 ..
+drwxrwxr-x  2 viper viper 4096 Oct 15 01:47 archive
+drwxrwxr-x  2 viper viper 4096 Oct 15 01:47 backup
+-rw-rw-r--  1 viper viper   13 Oct 15 01:47 credits.txt
+-rw-rw-r--  1 viper viper   14 Oct 15 01:47 draft.txt
+-rw-rw-r--  1 viper viper   36 Oct 15 01:47 file1.txt
+-rw-rw-r--  1 viper viper   14 Oct 15 01:47 file2.txt
+drwxrwxr-x  2 viper viper 4096 Oct 15 01:47 .hidden_data
+drwxrwxr-x  2 viper viper 4096 Oct 15 01:47 logs
+-rw-rw-r--  1 viper viper   50 Oct 15 01:47 notes.txt
+-rw-rw-r--  1 viper viper   50 Oct 15 01:47 notes_v1.txt
+-rw-rw-r--  1 viper viper   96 Oct 15 01:47 numbers_doubled.txt
+-rw-rw-r--  1 viper viper   91 Oct 15 01:47 numbers_final.txt
+-rw-rw-r--  1 viper viper   21 Oct 15 01:47 numbers.txt
+drwxrwxr-x  3 viper viper 4096 Oct 15 01:47 projects
+-rw-rw-r--  1 viper viper   92 Oct 15 01:47 story.txt
+drwxrwxr-x  2 viper viper 4096 Oct 15 01:47 trash
+-rw-rw-r--  1 viper viper  116 Oct 15 01:47 .vimrc
